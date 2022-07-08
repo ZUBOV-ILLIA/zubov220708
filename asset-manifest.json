@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zubov220708/static/css/main.3368d771.css",
+    "main.js": "/zubov220708/static/js/main.68b51631.js",
+    "index.html": "/zubov220708/index.html",
+    "main.3368d771.css.map": "/zubov220708/static/css/main.3368d771.css.map",
+    "main.68b51631.js.map": "/zubov220708/static/js/main.68b51631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3368d771.css",
+    "static/js/main.68b51631.js"
+  ]
+}
