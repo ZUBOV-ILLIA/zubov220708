@@ -1,0 +1,36 @@
+html {
+  font-family: 'Inter', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: gray;
+}
+
+.title {
+  font-size: 20px;
+}
+
+.container {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  width: 120px;
+  padding: 15px;
+  text-align: right;
+}
+
+.chart-container {
+  position: relative;
+  width: 80%;
+}
+
+.chart {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: greenyellow;
+  transition: width 0.4s ease-out;
+}
